@@ -17,7 +17,7 @@ body {
 
 /* Card Container */
 .card-container {
-  background: #fff url('./images/bg.jpg'); /* Soft floral pattern */
+  background: #fff url('./images/bg.png'); /* Soft floral pattern */
   background-size: cover;
   width: 100%;
   max-width: 450px;
@@ -201,3 +201,4 @@ body {
   .icon-circle { width: 50px; height: 50px; font-size: 1.2rem; }
 
 }
+
